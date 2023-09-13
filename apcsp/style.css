@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(251, 238, 255);
+}
+
+.All{
+  display: grid;
+  place-items: center;
+}
+
+.me{
+    margin-right:250px;
+    margin-left:250px;
+    text-align: center;
+}
