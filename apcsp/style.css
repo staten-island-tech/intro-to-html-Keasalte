@@ -1,15 +1,14 @@
 body{
-    background-color: rgb(248, 221, 255)
+    background-color: rgb(251, 238, 255);
 }
 
-.C1 {
+.All{
+  display: grid;
+  place-items: center;
+}
+
+.me{
+    margin-right:250px;
+    margin-left:250px;
     text-align: center;
-}
-
-.meme {
-    text-align: center;
-}
-
-ul.Likes {display:inline-block;
-text-align:left;
 }
